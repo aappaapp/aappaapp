@@ -8,9 +8,7 @@
 
 ## About Me
 
-A very normal 13 years old child from Hong Kong. I am bad at programming (and English).
-
-I have a YouTube channel about gaming. You can subscribe if you found it (It is hidden somewhere in the README).
+A very normal child from Hong Kong. I am bad at programming (and English).
 
 -   _Favourite Language:_ **Chinese**
 -   _Favourite Programming Language:_ **Typescript**
