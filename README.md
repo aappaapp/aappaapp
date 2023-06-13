@@ -15,6 +15,8 @@ A very normal child from Hong Kong. I am bad at programming (and English).
 
 ![aappaapp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adenpun&theme=dark)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/570593016843206672)](https://discord.com/users/570593016843206672)
+
 ## Repositories
 
 ### My website...
