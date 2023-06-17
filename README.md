@@ -9,11 +9,11 @@ A very normal child from Hong Kong. I am bad at programming (and English).
 
 ## Stats
 
-![aappaapp's GitHub stats](https://github-readme-stats.vercel.app/api?username=aappaapp&include_all_commits=true&show_icons=true&theme=dark)
+[![aappaapp's GitHub stats](https://github-readme-stats.vercel.app/api?username=aappaapp&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/aappaapp)
 
-![aappaapp's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aappaapp&layout=donut&theme=dark)
+[![aappaapp's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aappaapp&layout=donut&theme=dark)](https://github.com/aappaapp)
 
-![aappaapp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adenpun&theme=dark)
+[![aappaapp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adenpun&theme=dark)](https://wakatime.com/@adenpun)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/570593016843206672)](https://discord.com/users/570593016843206672)
 
