@@ -1,18 +1,5 @@
-# aappaapp
-
 ## About Me
 
-A very normal child from Hong Kong. I am bad at programming (and English).
+A very normal child from Hong Kong. I like messing with NixOS, Godot, web projects, and virtually anything tech-related.
 
--   _Favourite Language:_ **Chinese**
--   _Favourite Programming Language:_ **Typescript**
-
-## Repositories
-
-### My website...
-
-[![My website's repository](https://github-readme-stats.vercel.app/api/pin/?username=aappaapp&repo=website&theme=dark)](https://github.com/aappaapp/website)
-
-## FAQ
-
-No.
+You can visit [my empty website](https://adenpun.net/).
